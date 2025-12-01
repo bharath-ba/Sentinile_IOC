@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sentinel-IOC: Intelligent Orbital Collision Avoidance System
 
 **Sentinel-IOC** is a sequential multi-agent system designed to automate the critical process of Space Traffic Management. It uses the **Agent Development Kit (ADK)** to detect, assess, and respond to satellite collision threats (Conjunctions) with precision and accountability.
